@@ -1,7 +1,10 @@
 - 👋 Hi, I’m **@kaden175ck**
-- 🎨 I’m a **front-end developer** passionate about building modern, intuitive web applications.
-- 🔧 Currently expanding my skill set by learning **back-end development** (Node.js, Express, Prisma, databases).
-- 🤝 Open to collaborating on full-stack projects or anything interesting!
+- 💻 **Full-Stack Developer** with a strong front-end background.
+- ⚛️ Front-end: **React + TypeScript**, modern component-based architecture.
+- 🤖 Actively exploring **AI-driven development**, focusing on **prompt design** and AI-assisted engineering workflows.
+- 🔧 Back-end: **Go**, API development, databases, and system design.
+- 🤝 Open to full-stack, backend, or AI-related collaborations.
+
 
 
 <!---
